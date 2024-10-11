@@ -64,5 +64,5 @@ python cli.py
   classification  0.08s      ./test_images/sunflowers_04.jpeg  {'class': 'sunflowers', 'score': 1.0}
        detection  0.09s                 ./test_images/dog.jpg  {'bboxes': [[131, 222, 309, 540], [125, 122, 566, 420], [467, 73, 693, 170]], 'classes': ['dog', 'bicycle', 'truck'], 'scores': [0.93, 0.88, 0.78]}
   classification  0.07s      ./test_images/sunflowers_04.jpeg  {'class': 'sunflowers', 'score': 1.0}
-       detection  0.13s                 ./test_images/dog.jpg  {'bboxes': [[131, 222, 309, 540], [125, 122, 566, 420], [467, 73, 693, 170]], 'classes': ['dog', 'bicycle', 'truck'], 'scores': [0.93, 0.88, 0.78]}  classification  0.07s      ./test_images/sunflowers_04.jpeg  {'class': 'sunflowers', 'score': 1.0}
+       detection  0.13s                 ./test_images/dog.jpg  {'bboxes': [[131, 222, 309, 540], [125, 122, 566, 420], [467, 73, 693, 170]], 'classes': ['dog', 'bicycle', 'truck'], 'scores': [0.93, 0.88, 0.78]}
 ```
